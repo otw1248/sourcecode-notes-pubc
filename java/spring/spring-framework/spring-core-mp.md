@@ -1,0 +1,10 @@
+```mermaid
+mindmap
+    springCore
+        io
+            resource
+                DefaultResourceLoader
+                UrlResource
+                PathResource
+                FileSystemResource
+```
